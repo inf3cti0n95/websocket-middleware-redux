@@ -1,0 +1,17 @@
+{
+  "name": "redux-trial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fbemitter": "^2.1.1",
+    "redux": "^3.6.0",
+    "sha256": "^0.2.0",
+    "ws": "^3.0.0"
+  }
+}
